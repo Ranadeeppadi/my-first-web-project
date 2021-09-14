@@ -1,0 +1,6 @@
+#paragraph_1 {
+color:blue;
+}
+#paragraph_2{
+color:blue;
+}
